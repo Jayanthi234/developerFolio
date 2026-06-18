@@ -33,12 +33,8 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/", // Add GitHub profile link here
-  linkedin: "https://www.linkedin.com/in/jayanthi-p-b92ba8226", // Her actual LinkedIn profile
-  gmail: "jayanthi.email@gmail.com", // Add professional email address here
-  gitlab: "",
-  facebook: "",
-  medium: "",
-  stackoverflow: "",
+  linkedin: "www.linkedin.com/in/jayanthi-pa", // Her actual LinkedIn profile
+  gmail: "padakandlajayanthi@gmail.com", // Add professional email address here
   display: true // Set true to display this section, defaults to false
 };
 
