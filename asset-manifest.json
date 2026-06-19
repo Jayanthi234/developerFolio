@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/developerFolio/static/css/main.f7e48441.css",
-    "main.js": "/developerFolio/static/js/main.faec6336.js",
-    "static/css/487.bb36206c.chunk.css": "/developerFolio/static/css/487.bb36206c.chunk.css",
-    "static/js/487.8738546a.chunk.js": "/developerFolio/static/js/487.8738546a.chunk.js",
-    "static/css/990.c6a7ee28.chunk.css": "/developerFolio/static/css/990.c6a7ee28.chunk.css",
-    "static/js/990.f4ad1aac.chunk.js": "/developerFolio/static/js/990.f4ad1aac.chunk.js",
+    "main.css": "/developerFolio/static/css/main.812915a2.css",
+    "main.js": "/developerFolio/static/js/main.604c5cce.js",
+    "static/css/98.9efa818e.chunk.css": "/developerFolio/static/css/98.9efa818e.chunk.css",
+    "static/js/98.77157ca0.chunk.js": "/developerFolio/static/js/98.77157ca0.chunk.js",
+    "static/css/290.87ca3138.chunk.css": "/developerFolio/static/css/290.87ca3138.chunk.css",
+    "static/js/290.e8171fe2.chunk.js": "/developerFolio/static/js/290.e8171fe2.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/developerFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/developerFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -14,16 +14,10 @@
     "static/media/skill.svg": "/developerFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/developerFolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/developerFolio/index.html",
-    "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.f7e48441.css.map": "/developerFolio/static/css/main.f7e48441.css.map",
-    "main.faec6336.js.map": "/developerFolio/static/js/main.faec6336.js.map",
-    "487.bb36206c.chunk.css.map": "/developerFolio/static/css/487.bb36206c.chunk.css.map",
-    "487.8738546a.chunk.js.map": "/developerFolio/static/js/487.8738546a.chunk.js.map",
-    "990.c6a7ee28.chunk.css.map": "/developerFolio/static/css/990.c6a7ee28.chunk.css.map",
-    "990.f4ad1aac.chunk.js.map": "/developerFolio/static/js/990.f4ad1aac.chunk.js.map"
+    "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg"
   },
   "entrypoints": [
-    "static/css/main.f7e48441.css",
-    "static/js/main.faec6336.js"
+    "static/css/main.812915a2.css",
+    "static/js/main.604c5cce.js"
   ]
 }
